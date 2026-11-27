@@ -1,0 +1,1559 @@
+{
+ "groups": [
+  {
+   "id": "sh1",
+   "name": "소흡 1차",
+   "lectures": [
+    {
+     "id": "38",
+     "name": "38. 골반과 샅의 벽과 공간_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-38-1",
+       "t": "pelvic brim (inlet) 아래 공간을 [[true (lesser) pelvis]]라고 한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-2",
+       "t": "true (lesser) pelvis의 위 경계는 [[pelvic inlet]], 아래 경계는 [[pelvic outlet]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-3",
+       "t": "linea terminalis = pubic crest + [[pecten pubis]] + [[arcuate line]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-4",
+       "t": "pelvic inlet은 pubic symphysis, linea terminalis, sacrum의 [[promontory]]와 [[ala 앞 모서리]]로 이루어진다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-5",
+       "t": "pelvic inlet의 앞-뒤 길이를 잴 때 앞 표지점은 [[pubic symphysis]], 뒤 표지점은 [[promontory]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-6",
+       "t": "pelvic outlet은 pubic symphysis, pubic arch, [[ischial tuberosity]], [[sacrotuberous ligament]], coccyx로 이루어진다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-7",
+       "t": "perineum을 두 삼각형으로 나누는 기준선은 양쪽 [[ischial tuberosity]]를 이은 선",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-8",
+       "t": "양쪽 ischial tuberosity를 이은 선의 앞쪽 삼각형은 [[urogenital triangle]], 뒤쪽 삼각형은 [[anal triangle]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-9",
+       "t": "urogenital triangle과 anal triangle은 한 평면에 [[있지 않다]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-10",
+       "t": "남성 골반에서 bladder와 rectum 사이의 오목은 [[rectovesical pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-11",
+       "t": "여성 골반 장기는 앞에서부터 bladder – [[uterus]] – rectum 순서",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-12",
+       "t": "여성에서 bladder와 uterus 사이의 오목은 [[vesicouterine pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-13",
+       "t": "여성에서 rectum과 uterus 사이의 오목은 [[rectouterine pouch (douglas pouch)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-14",
+       "t": "여성이 앉아 있을 때 빈 공간 중 가장 아래에 있어 염증 삼출물 등이 고이는 곳은 [[rectouterine pouch (douglas pouch)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-15",
+       "t": "pelvic diaphragm = [[levator ani m.]] + [[coccygeus m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-16",
+       "t": "levator ani m.는 양쪽 [[obturator internus m.]]의 중간 지점에서 일어나 가운데에서 만난다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-17",
+       "t": "obturator internus m.과 levator ani m.가 맞닿는 곳에 생기는 힘줄 구조는 [[tendinous arch of levator ani]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-18",
+       "t": "coccygeus m.는 [[sacrospinous ligament]] 위를 덮는다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-19",
+       "t": "pelvic diaphragm 위 공간은 [[pelvic cavity]], 아래 공간은 [[perineum]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-20",
+       "t": "anal canal은 [[pelvic diaphragm]]만 통과하고, deep perineal pouch는 통과하지 않는다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-21",
+       "t": "deep perineal pouch와 superficial perineal pouch의 경계가 되는 것은 pelvic diaphragm이 아니라 [[perineal membrane]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-22",
+       "t": "levator ani m. = [[puborectalis m.]] + [[pubococcygeus m.]] + iliococcygeus m.",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-23",
+       "t": "levator ani m. = puborectalis m. + pubococcygeus m. + [[iliococcygeus m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-24",
+       "t": "anal canal을 감아서 당겨 rectum–anal canal 각도를 만드는 가장 중요한 근육은 [[puborectalis m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-25",
+       "t": "puborectalis m.와 비슷하게 anal canal을 당기는 levator ani 근육은 [[pubococcygeus m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-26",
+       "t": "rectum과 anal canal이 이루는 각도로, 대변이 나오는 것을 막아 주는 것은 [[perineal flexure]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-27",
+       "t": "perineal flexure를 만드는 근육의 수축에 문제가 생겨 변실금이 생겼다면 원인 근육은 [[puborectalis m.]]와 [[pubococcygeus m.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-28",
+       "t": "puborectalis m.나 pubococcygeus m.에 문제가 생기면 [[변실금]] 혹은 [[요실금]]이 생긴다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-29",
+       "t": "요실금·변실금과 관련된 근육을 고를 때 보기에 puborectalis m.가 없으면 답은 [[pubococcygeus m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-30",
+       "t": "출산 후 perineal body가 파열되어 변실금이 생기면 levator ani m.보다 [[external anal sphincter]]가 손상되었을 가능성이 더 높다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-31",
+       "t": "perineum 얕은 근막의 membranous layer는 [[Colles' fascia]]이며, 배의 [[Scarpa's fascia]]로 이어진다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-32",
+       "t": "perineum에서 perineal membrane 위쪽(깊은 쪽)은 [[deep perineal pouch]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-33",
+       "t": "perineum에서 perineal membrane 아래쪽(얕은 쪽)은 [[superficial perineal pouch]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-34",
+       "t": "perineal membrane은 [[urogenital triangle]]에만 존재한다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-35",
+       "t": "perineum은 perineal membrane으로 전체가 막혀 있지 [[않다]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-36",
+       "t": "perineal membrane은 공간을 [[superficial perineal pouch]]와 [[deep perineal pouch]]로 나눈다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-37",
+       "t": "perineal membrane 아래에 붙는 구조는 [[해면체]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-38-38",
+       "t": "perineal membrane이 없는 뒤쪽에서 anal canal 주위 지방이 찬 공간은 [[ischioanal fossa (ischiorectal fossa)]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-38-39",
+       "t": "perineal membrane과 levator ani m. 사이 지방조직의 감염은 [[항문 주변]]의 공간으로 퍼질 수 있다",
+       "k": 0
+      }
+     ]
+    },
+    {
+     "id": "39",
+     "name": "39. 골반과 샅의 신경혈관_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-39-1",
+       "t": "n. to piriformis의 척수 분절은 [[L5-S2]]",
+       "k": 0,
+       "n": "sacral plexus 가지 중 골반 안(Pelvis 내부)에 가는 것: n. to piriformis는 L5-S2, levator ani·coccygeus·EAS로 가는 가지는 S4.",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-2",
+       "t": "levator ani, coccygeus m.에 직접 분포하는 척수 분절은 [[S4]]",
+       "k": 0,
+       "n": "S4가 levator ani, coccygeus m.에 직접 분포해요. levator ani 기준 위쪽은 대부분 S4, 아래쪽은 pudendal n.(의 가지)가 담당해요.",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-3",
+       "t": "perineum에 분포하는 somatic nerve는 [[pudendal n.]]",
+       "k": 1,
+       "n": "표에서 Perineum에 분포하는 sacral plexus 가지는 王pudendal n.王 하나예요. 교수님: '오늘 중요한 것은 pudendal nerve'.",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-4",
+       "t": "pudendal n.의 척수 분절은 [[S2-S4]]",
+       "k": 1,
+       "n": "pudendal n.는 王S2-S4王. 경로가 중요하다고 강조하셨어요.",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-5",
+       "t": "외부 생식기 대부분의 감각을 담당하고 손상받기 쉬운 신경은 [[pudendal n.]]",
+       "k": 1,
+       "n": "pudendal n.는 외부 생식기 대부분의 감각을 담당하고, 손상받기 쉬운 신경이에요 (ischial spine·tuberosity 근처를 지나서).",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-6",
+       "t": "pudendal n.는 lumbar plexus가 아니라 [[sacral plexus]]에서 일어난다",
+       "k": 0,
+       "n": "pudendal n.는 S2-4 성분이라 sacral plexus에서 일어나요. lumbar plexus(L2-L4) 기원은 obturator n.예요 (sacral plexus 아님).",
+       "ref": "39-ref-b.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-7",
+       "t": "[그림] sacral plexus에서 나와 perineum으로 가는 S2-S4 신경은 [[Pudendal nerve]]",
+       "k": 1,
+       "n": "sacral plexus 그림에서 S2-S4에서 모여 아래로 내려가 perineum으로 가는 신경이 Pudendal nerve예요.",
+       "ref": "39-ref-a.jpg",
+       "img": "39-sacral.jpg",
+       "box": [
+        1082,
+        822,
+        846,
+        508,
+        136,
+        32,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-8",
+       "t": "[그림] S2-S4에서 나오는 골반의 부교감 신경은 [[Pelvic splanchnic nerves]]",
+       "k": 1,
+       "n": "그림 오른쪽 'Pelvic splanchnic nerves (preganglionic parasympathetics from S2 to S4)'. 골반의 부교감 성분이에요.",
+       "ref": "39-ref-a.jpg",
+       "img": "39-sacral.jpg",
+       "box": [
+        1082,
+        822,
+        850,
+        444,
+        230,
+        62,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-9",
+       "t": "[그림] S4가 직접 분포하는 근육: [[coccygeus, levator ani, external anal sphincter]]",
+       "k": 0,
+       "n": "Pelvis 내부: n. to levator ani, coccygeus, external anal sphincter(EAS) — S4가 직접 분포.",
+       "ref": "39-ref-b.jpg",
+       "img": "39-sacral.jpg",
+       "box": [
+        1082,
+        822,
+        805,
+        688,
+        220,
+        38,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-10",
+       "t": "pudendal n.의 운동 가지 중 obturator internus m.에 가는 것은 [[없다]]",
+       "k": 0,
+       "n": "pudendal n.는 obturator internus 근막이 만든 pudendal canal 속을 지나갈 뿐, obturator internus에 가는 운동 가지는 없어요 (2020 문족).",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-11",
+       "t": "pudendal n.는 pelvic cavity에서 [[greater sciatic foramen]]을 통해 piriformis m. [[아래]]로 나간다",
+       "k": 1,
+       "n": "주행 ①: pelvic cavity에서 greater sciatic foramen을 통해 piriformis m. 밑으로 나가요.",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-12",
+       "t": "pudendal n.는 [[lesser sciatic foramen]]을 통해 perineum으로 들어온다",
+       "k": 1,
+       "n": "주행 ②: lesser sciatic foramen을 통해 perineum으로 들어와요.",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-13",
+       "t": "pudendal n.는 levator ani m.보다 [[아래]]로 들어오므로 pelvic cavity가 아닌 perineum에 분포한다",
+       "k": 1,
+       "n": "levator ani m.보다 밑으로 들어오기 때문에 pelvic cavity가 아닌 perineum으로 들어온 것이에요 (2020 문족: 'levator ani 위쪽으로 들어온다'는 틀림).",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-14",
+       "t": "pudendal n. 경로: pelvic cavity → greater sciatic foramen → [[lesser sciatic foramen]] → [[perineum]]",
+       "k": 1,
+       "n": "王Pelvic cavity – Greater sciatic foramen – lesser sciatic foramen – perineum王 순서로 외우세요.",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-15",
+       "t": "pudendal n.는 [[ischial spine]]을 감고 ischial tuberosity 주변을 지난다",
+       "k": 1,
+       "n": "pudendal n.는 ischial spine을 감은 뒤 ischial tuberosity 주변(inferior pubic ramus 모서리)을 따라 주행해요.",
+       "ref": "39-ref-d.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-16",
+       "t": "[[ischial spine]]이나 ischial tuberosity가 골절되면 pudendal n.가 손상될 수 있다",
+       "k": 1,
+       "n": "王ischial spine / ischial tuberosity 손상 시王 pudendal n.도 다칠 수 있어요 — 이 근처를 지나기 때문이에요.",
+       "ref": "39-ref-d.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-17",
+       "t": "자전거·출산 시 [[ischial tuberosity]] 안쪽의 pudendal n.가 눌려 다칠 수 있다",
+       "k": 1,
+       "n": "자전거, 王출산王 시 ischial tuberosity 안쪽을 지나는 pudendal n.가 눌려 다칠 수 있어요. (선) 출산 때 pudendal n.를 마취.",
+       "ref": "39-ref-d.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-18",
+       "t": "internal pudendal a.와 pudendal n.는 함께 [[pudendal canal]] 속을 지난다",
+       "k": 0,
+       "n": "pudendal canal 속으로 pudendal n.와 internal pudendal a./v.가 같이 주행해요.",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-19",
+       "t": "pudendal canal은 [[obturator internus m.]]의 근막이 만든다",
+       "k": 0,
+       "n": "obturator internus m.의 근막이 연장되어 pudendal n.를 덮는 pudendal canal을 만들어요. (perineal membrane이 아님 — 2020 문족)",
+       "ref": "39-ref-c.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-20",
+       "t": "[그림] pudendal n.는 obturator internus 근막이 만든 [[pudendal canal]] 속을 지난다",
+       "k": 1,
+       "n": "오른쪽 그림의 빨간 상자 'Pudendal nerve in pudendal canal' 부분이에요.",
+       "ref": "39-ref-c.jpg",
+       "img": "39-pudcanal.jpg",
+       "box": [
+        764,
+        950,
+        505,
+        643,
+        242,
+        55,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-21",
+       "t": "[그림] pudendal n.가 감고 돌아 lesser sciatic foramen으로 들어가는 뼈 구조는 [[ischial spine]]",
+       "k": 1,
+       "n": "그림에서 Ischial spine을 감고 아래로 내려가는 pudendal n.를 확인하세요.",
+       "ref": "39-ref-c.jpg",
+       "img": "39-pudcanal.jpg",
+       "box": [
+        764,
+        950,
+        568,
+        588,
+        122,
+        26,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-22",
+       "t": "anal triangle의 감각을 담당하는 pudendal n.의 가지는 [[inferior rectal n.]]",
+       "k": 1,
+       "n": "① 王Inferior rectal n.王: ischial anal fossa를 지나 anal triangle에 분포, anal triangle의 감각 성분.",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-23",
+       "t": "inferior rectal n.는 [[external anal sphincter]]와 levator ani에 운동 성분을 준다",
+       "k": 1,
+       "n": "inferior rectal n.는 external anal sphincter와 levator ani에 운동 성분을 줘요.",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-24",
+       "t": "inferior rectal n.가 다치면 external anal sphincter가 수축하지 못해 [[변실금]]이 생길 수 있다",
+       "k": 1,
+       "n": "EAS에 분포하므로 inferior rectal n.가 다치면 王변실금王이 생길 수 있어요 (임상문제: ischial tuberosity 골절 후 변실금).",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-25",
+       "t": "inferior rectal n.(& a.)는 [[ischioanal fossa]]를 지나므로 그곳 지방의 염증으로 손상된다",
+       "k": 1,
+       "n": "王ischial anal fossa의 지방에 염증이 생기면 그 부분을 지나는 inferior rectal n., a. 문제가 생김王 (2021·2022 문족).",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-26",
+       "t": "urogenital triangle의 감각과 superficial/deep perineal pouch 근육의 운동을 담당하는 가지는 [[perineal n.]]",
+       "k": 0,
+       "n": "② Perineal n.: urogenital triangle의 감각 + superficial/deep perineal pouch 근육의 운동 성분.",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-27",
+       "t": "음경뿌리(scrotum 뒤쪽)의 감각은 perineal n.의 가지인 [[posterior scrotal n.]]가 담당한다",
+       "k": 0,
+       "n": "임상문제 해설: 음경뿌리 = scrotum 뒤쪽 → perineal n.의 post. scrotal n. (여성은 post. labial n.).",
+       "ref": "39-ref-g.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-28",
+       "t": "생식기 dorsal side의 감각을 담당하는 가지는 남성 [[dorsal n. of penis]], 여성 dorsal n. of clitoris",
+       "k": 0,
+       "n": "③ 남성 dorsal n. of penis / 여성 dorsal n. of clitoris: 생식기의 dorsal side에 분포 (강의록: 감각 성분만).",
+       "ref": "39-ref-e.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-29",
+       "t": "여성·남성의 항문과 생식기 감각은 [[pudendal n.]]의 가지가 담당한다",
+       "k": 1,
+       "n": "王여성, 남성의 항문과 생식기 감각은 pudendal n.의 가지가 담당한다王 — 항문 주변은 inf. rectal n., urogenital triangle은 perineal n.",
+       "ref": "39-ref-f.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-30",
+       "t": "[그림] anal triangle에 분포하고 EAS에 운동 가지를 주는 pudendal n.의 가지는 [[Inferior rectal nerve]]",
+       "k": 1,
+       "n": "그림 왼쪽 아래 파란 상자 'Inferior rectal nerve'. anal triangle 쪽으로 가요.",
+       "ref": "39-ref-e.jpg",
+       "img": "39-perineum-n.jpg",
+       "box": [
+        1071,
+        662,
+        90,
+        572,
+        145,
+        32,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-31",
+       "t": "[그림] urogenital triangle에 분포하는 pudendal n.의 가지는 [[Perineal nerve]]",
+       "k": 0,
+       "n": "그림 왼쪽 파란 상자 'Perineal nerve'. urogenital triangle 쪽으로 가요.",
+       "ref": "39-ref-e.jpg",
+       "img": "39-perineum-n.jpg",
+       "box": [
+        1071,
+        662,
+        15,
+        362,
+        123,
+        32,
+        0,
+        215,
+        126,
+        98,
+        22,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-32",
+       "t": "[그림] 음경의 dorsal side 감각을 담당하는 가지는 [[Dorsal nerve of penis]]",
+       "k": 0,
+       "n": "그림 위 파란 상자 'Dorsal nerve of penis'. penis의 dorsal side로 가요.",
+       "ref": "39-ref-e.jpg",
+       "img": "39-perineum-n.jpg",
+       "box": [
+        1071,
+        662,
+        570,
+        8,
+        160,
+        32,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-33",
+       "t": "[그림] scrotum 뒤쪽 감각을 담당하는 perineal n.의 가지는 [[posterior scrotal n.]]",
+       "k": 0,
+       "n": "그림 왼쪽 검은 상자 'Posterior scrotal branch of the perineal nerve'.",
+       "ref": "39-ref-e.jpg",
+       "img": "39-perineum-n.jpg",
+       "box": [
+        1071,
+        662,
+        15,
+        218,
+        123,
+        66,
+        0,
+        35,
+        170,
+        150,
+        22,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-34",
+       "t": "배 안 자율신경얼기(주로 inferior mesenteric plexus)의 섬유가 내려와 이루는 것은 [[superior hypogastric plexus]]",
+       "k": 0,
+       "n": "王정리王 ① 배 안의 자율신경얼기(주로 inferior mesenteric plexus)의 교감·부교감 섬유가 내려와 superior hypogastric plexus를 이뤄요.",
+       "ref": "39-ref-i.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-35",
+       "t": "sacral splanchnic n.(교감)와 pelvic splanchnic n.(부교감)의 섬유가 섞여 이루는 것은 [[inferior hypogastric plexus]]",
+       "k": 1,
+       "n": "② sacral splanchnic n.(교감)와 pelvic splanchnic n.(부교감)의 섬유가 섞여 inferior hypogastric plexus를 이뤄요.",
+       "ref": "39-ref-i.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-36",
+       "t": "superior hypogastric plexus와 inferior hypogastric plexus를 이어 주는 신경은 [[hypogastric n.]]",
+       "k": 0,
+       "n": "③ 두 plexus의 일부 섬유는 서로 왕래하고, 왕래하는 가지들 = hypogastric n. (2020 문족 주관식)",
+       "ref": "39-ref-i.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-37",
+       "t": "superior hypogastric plexus는 가운데 [[1개]], inferior hypogastric plexus는 양쪽 [[2개]]",
+       "k": 0,
+       "n": "sup. hypogastric plexus는 가운데 위에 1개, inf. hypogastric plexus는 아래 양쪽에 2개.",
+       "ref": "39-ref-h.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-38",
+       "t": "골반의 부교감신경을 전달하는 내장신경은 [[pelvic splanchnic n.]]",
+       "k": 1,
+       "n": "골반 교감 = sacral splanchnic n., 부교감 = 王pelvic splanchnic n.王 (2020 문족 주관식).",
+       "ref": "39-ref-i.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-39",
+       "t": "splanchnic n.는 대부분 교감신경이지만, 예외적으로 [[pelvic splanchnic n.]]는 부교감신경이다",
+       "k": 0,
+       "n": "splanchnic n.는 교감인데, 예외적으로 pelvis에 분포하는 pelvic splanchnic n.는 부교감이에요 (문족 해설).",
+       "ref": "39-ref-j.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-40",
+       "t": "해면체 혈관을 vasodilation시켜 발기를 일으키는 데 가장 중요한 신경은 [[pelvic splanchnic n.]]",
+       "k": 1,
+       "n": "발기는 혈관 확장(vasodilation)으로 일어나고, 혈관 확장은 부교감이 담당 → 王王pelvic splanchnic n.는 발기에 중요王王.",
+       "ref": "39-ref-j.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-41",
+       "t": "전립선절제·곧창자수술 후 발기불능인데 음경 감각은 정상이면 손상된 신경은 [[pelvic splanchnic n.]]",
+       "k": 1,
+       "n": "임상문제: '발기부전' = 부교감 문제 + '음경 감각 정상' = pudendal n. 정상 → pelvic splanchnic n. (2021·2022 문족 같은 문제).",
+       "ref": "39-ref-j.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-42",
+       "t": "발기부전인데 음경 감각이 정상이면 감각신경인 [[pudendal n. (dorsal n. of penis)]]는 정상이다",
+       "k": 0,
+       "n": "음경 감각은 pudendal n.(dorsal n. of penis)가 담당하니, 감각이 정상이면 이 신경은 정상이에요.",
+       "ref": "39-ref-j.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-43",
+       "t": "음경의 발기는 [[부교감]] 신경, 사정은 [[교감]] 신경과 관련된다",
+       "k": 0,
+       "n": "발기 = 혈관 확장 = 부교감. 사정은 교감과 관련 (2020 문족 해설).",
+       "ref": "39-ref-j.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-44",
+       "t": "[그림] 배 쪽 자율신경 성분이 내려와 가운데 1개로 이루는 plexus는 [[Superior hypogastric plexus]]",
+       "k": 0,
+       "n": "그림 오른쪽 노란 상자 'Superior hypogastric plexus' — 가운데 위 큰 동그라미.",
+       "ref": "39-ref-h.jpg",
+       "img": "39-hypogastric.jpg",
+       "box": [
+        1201,
+        999,
+        1003,
+        335,
+        138,
+        92,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-45",
+       "t": "[그림] sacral·pelvic splanchnic n.가 섞여 양쪽에 2개로 이루는 plexus는 [[Inferior hypogastric plexus]]",
+       "k": 1,
+       "n": "그림 왼쪽 아래 노란 상자 'Inferior hypogastric plexus' — 아래 양쪽 큰 동그라미.",
+       "ref": "39-ref-h.jpg",
+       "img": "39-hypogastric.jpg",
+       "box": [
+        1201,
+        999,
+        30,
+        920,
+        212,
+        52,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-46",
+       "t": "[그림] superior와 inferior hypogastric plexus를 이어 주는 신경은 [[Hypogastric nerve]]",
+       "k": 0,
+       "n": "그림 오른쪽 'Hypogastric nerve' — 두 plexus 사이를 왕래하는 가지 (작은 화살표).",
+       "ref": "39-ref-h.jpg",
+       "img": "39-hypogastric.jpg",
+       "box": [
+        1201,
+        999,
+        1010,
+        497,
+        142,
+        66,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-47",
+       "t": "[그림] 골반의 교감 성분은 [[Sacral splanchnic nerves]], 부교감 성분은 [[Pelvic splanchnic nerves]]",
+       "k": 1,
+       "n": "그림 왼쪽 빨간 상자 Sacral splanchnic(교감), 파란 상자 Pelvic splanchnic(부교감, S2-S4).",
+       "ref": "39-ref-h.jpg",
+       "img": "39-hypogastric.jpg",
+       "box": [
+        1201,
+        999,
+        0,
+        545,
+        242,
+        46,
+        0,
+        0,
+        672,
+        242,
+        84,
+        1
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-48",
+       "t": "골반의 혈관은 [[internal iliac a.]]의 가지들이며, 남녀가 다르다",
+       "k": 1,
+       "n": "common iliac a.가 internal/external iliac a.로 갈라지고, 골반은 internal iliac a. 가지. 남녀가 달라요.",
+       "ref": "39-ref-k.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-49",
+       "t": "internal iliac a. anterior trunk에서 배꼽으로 가다가 superior vesical a.를 내는 가지는 [[umbilical a.]]",
+       "k": 0,
+       "n": "① umbilical a.가 배꼽으로 가다가 superior vesical a.로 갈라져 방광 위쪽에 분포해요.",
+       "ref": "39-ref-l.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-50",
+       "t": "여성에서만 있고 자궁에 분포하는 internal iliac a.의 가지는 [[uterine a.]]",
+       "k": 1,
+       "n": "⑤ 王王Uterine a.(여성만)王王: 자궁에 분포 — anterior trunk의 가지.",
+       "ref": "39-ref-l.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-51",
+       "t": "여성에서 [[uterine a.]]는 ureter의 앞을 가로지른다",
+       "k": 1,
+       "n": "王여성의 ureter 앞을 가로지른다(교차)王. (선) 남성에서 ureter 앞을 가로지르는 것은 vas deferens.",
+       "ref": "39-ref-l.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-52",
+       "t": "여성에서 자궁동맥을 묶을 때 같이 묶이거나 대신 묶이기 쉬운 구조는 [[요관 (ureter)]]",
+       "k": 1,
+       "n": "uterine a.를 묶으려다 ureter를 같이 묶을 수 있어요 (2021 분기말 객관식 12, 2022 문족).",
+       "ref": "39-ref-l.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-53",
+       "t": "여성에서 방광의 아래 부분에 혈액을 주는 동맥은 [[inferior vesical a.]]",
+       "k": 1,
+       "n": "⑥ 王王Inf. vesical a.王王: 방광 아래에 분포. 여성에서도 inf. vesical a.가 있다고 하셨어요 (2020 문족 주관식).",
+       "ref": "39-ref-l.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-54",
+       "t": "pudendal n.와 똑같이 주행하는 동맥은 [[internal pudendal a.]]",
+       "k": 1,
+       "n": "⑦ 王王Internal pudendal a.王王 — pudendal n.와 똑같이 주행해서 perineum으로 가요.",
+       "ref": "39-ref-m.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-55",
+       "t": "internal pudendal a.의 가지 중 pudendal n.의 가지와 이름이 같은 두 개는 [[inferior rectal a.]]와 [[perineal a.]]",
+       "k": 1,
+       "n": "internal pudendal a.의 가지 2개는 pudendal n. 가지와 이름이 같아요: 王inf. rectal a., perineal a.王. 3번째 가지는 penis 쪽.",
+       "ref": "39-ref-m.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-56",
+       "t": "ischioanal fossa의 염증으로 가장 손상받기 쉬운 구조는 [[inferior rectal n./a.]]",
+       "k": 1,
+       "n": "임상문제(2021 분기말 11): ischiorectal fossa 염증 → 가장 손상받기 쉬운 것은 inf. rectal a., n.",
+       "ref": "39-ref-n.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-57",
+       "t": "[그림] ischio-anal fat을 지나 항문 주위로 가는 internal pudendal a.의 가지는 [[Inferior rectal artery]]",
+       "k": 1,
+       "n": "그림 왼쪽 빨간 상자 'Inferior rectal artery' — ischioanal fossa(ischio-anal fat)를 지나요.",
+       "ref": "39-ref-m.jpg",
+       "img": "39-int-pud-a.jpg",
+       "box": [
+        886,
+        573,
+        33,
+        312,
+        128,
+        30,
+        0
+       ]
+      },
+      {
+       "id": "cz-v2-sh1-39-60",
+       "t": "dorsal artery of clitoris는 external pudendal a.가 아니라 [[internal pudendal a.]]의 가지",
+       "k": 0,
+       "n": "dorsal a. of clitoris도 internal pudendal a.의 가지예요 (2020 문족: external pudendal a.의 가지라는 건 틀림).",
+       "ref": "39-ref-m.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-61",
+       "t": "internal pudendal a.는 obturator canal이 아니라 [[pudendal canal]]을 지나 샅으로 간다",
+       "k": 0,
+       "n": "internal pudendal a.는 obturator internus 근막이 만든 pudendal canal을 지나요 (obturator canal 아님 — 2020 문족).",
+       "ref": "39-ref-m.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-62",
+       "t": "sup. rectal v.는 IMV를 거쳐 [[portal v.]]로, mid·inf. rectal v.는 iliac v.를 거쳐 [[IVC]]로 간다",
+       "k": 0,
+       "n": "(선) ① 위로: sup. rectal v. > IMV > portal v. ② 아래로: mid·inf. rectal v. > internal/common iliac v. > IVC.",
+       "ref": "39-ref-o.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-63",
+       "t": "anal sphincter 주변에서 sup·mid·inf rectal v.가 plexus를 이루어 portal system과 caval system이 연결되는 것은 [[portocaval shunt]]",
+       "k": 0,
+       "n": "Portocaval shunt = anal sphincter 주변에 sup·mid·inf rectal v.가 plexus를 이루어 portal system과 caval system이 연결되는 것.",
+       "ref": "39-ref-o.jpg"
+      },
+      {
+       "id": "cz-v2-sh1-39-64",
+       "t": "[그림] superior rectal vein은 [[hepatic portal system]]으로, middle·inferior rectal vein은 [[caval system]]으로 간다",
+       "k": 0,
+       "n": "그림 위 'To hepatic portal system'(sup. rectal v.)과 양옆 'To caval system'(mid·inf. rectal v.).",
+       "ref": "39-ref-o.jpg",
+       "img": "39-rectal-v.jpg",
+       "box": [
+        878,
+        586,
+        473,
+        0,
+        200,
+        24,
+        0,
+        256,
+        35,
+        140,
+        24,
+        1,
+        598,
+        50,
+        134,
+        24,
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "id": "40",
+     "name": "40. 골반의 비뇨생식장기(1)_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-40-1",
+       "t": "testis 위에 있으며 고환에서 시작된 관이 이어지는 구조는 [[epididymis]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-2",
+       "t": "vas deferens(ampulla)와 seminal vesicle이 합쳐져 만드는 관은 [[ejaculatory duct]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-3",
+       "t": "ejaculatory duct는 [[prostate]] 안에 있다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-4",
+       "t": "testis에 딱 붙어 감싸는 하얀 막은 [[tunica albuginea]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-5",
+       "t": "발생 과정에서 peritoneum에서 떨어져 나와 testis를 감싸는, 안이 빈 막은 [[tunica vaginalis]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-6",
+       "t": "scrotum에서 일부 근육층으로 된 layer는 [[dartos fascia]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-7",
+       "t": "방광 앞과 pubis 뒤 사이의 지방층 공간은 [[retropubic space (space of Retzius)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-8",
+       "t": "retropubic space는 중요한 혈관이 없어 [[수술적 경로]]로 활용하기 좋다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-9",
+       "t": "남성 요도의 네 부분: preprostatic, [[prostatic]], [[membranous]], spongy urethra",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-10",
+       "t": "preprostatic urethra를 감싸는 근육은 [[internal urethral sphincter]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-11",
+       "t": "ejaculatory duct가 열리는 요도 부분은 [[prostatic urethra]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-12",
+       "t": "prostate가 부으면 [[prostatic urethra]]가 막혀 오줌이 안 나온다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-13",
+       "t": "perineal membrane과 그 위 deep perineal pouch를 지나는 요도 부분은 [[membranous urethra]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-14",
+       "t": "membranous urethra를 감싸는 근육은 [[external urethral sphincter]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-15",
+       "t": "membranous urethra 감염이 perineal membrane 아래로도, ischiorectal fossa로도 퍼지지 않았을 때 손상받기 쉬운 근육은 [[deep transverse perineal m.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-16",
+       "t": "해면체 속을 지나는 요도 부분은 [[spongy urethra]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-17",
+       "t": "spongy urethra 끝에서 살짝 팽대된 부분은 [[navicular fossa]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-18",
+       "t": "앉아 있을 때 가장 낮은 공간으로 삼출물이 쌓이는 곳은 [[rectouterine pouch (pouch of Douglas)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-19",
+       "t": "여성이 앉아 있을 때 배 안의 삼출물이 축적될 가능성이 가장 큰 곳은 [[rectouterine pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-20",
+       "t": "posterior fornix에서 바늘을 넣어 복막 안 액체를 얻을 때 바늘이 닿는 공간은 [[rectouterine pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-21",
+       "t": "uterus, ovary, fallopian tube를 전체적으로 감싸는 peritoneum은 [[broad ligament]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-22",
+       "t": "uterus는 크게 [[fundus]], body, [[cervix]]로 나눈다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-23",
+       "t": "질과 자궁 사이가 꺾여 uterus 전체가 앞으로 기운 형태는 [[anteversion]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-24",
+       "t": "자궁 몸통(body) 자체가 꺾여 앞으로 기운 형태는 [[anteflexion]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-25",
+       "t": "anteversion·anteflexion 때문에 fundus, body, cervix 중 가장 앞에 있는 것은 [[fundus]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-26",
+       "t": "해부학적 자세에서 자궁 몸통(body)은 cervix보다 [[앞]]에 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-27",
+       "t": "ovary는 peritoneum으로 [[덮여 있지 않다]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-28",
+       "t": "fallopian tube 경로: [[isthmus]] → ampulla → infundibulum → [[fimbriae]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-29",
+       "t": "fallopian tube에서 넓어지는 부분은 [[ampulla]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-30",
+       "t": "자궁외임신이 가장 자주 일어나는 fallopian tube 부위는 [[ampulla]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-31",
+       "t": "fallopian tube에서 깔때기 모양으로 더 넓어지는 부분은 [[infundibulum]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-32",
+       "t": "broad ligament 중 fallopian tube를 잡는 부분은 [[mesosalpinx]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-33",
+       "t": "broad ligament 중 ovary를 잡는 부분은 [[mesoovarium (mesovarium)]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-34",
+       "t": "broad ligament 중 나머지를 잡는 부분은 [[mesometrium]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-35",
+       "t": "ovary를 자궁 몸통에 붙여 주는 인대는 [[ovarian ligament]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-36",
+       "t": "ovary를 바깥쪽으로 잡아 주고 ovarian a./v.가 안에 있는 인대는 [[suspensory ligament of ovary]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-37",
+       "t": "uterus 몸통에 붙어 inguinal canal을 지나 대음순으로 이어지는 인대는 [[round ligament]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-38",
+       "t": "자궁의 암이 inguinal canal을 거쳐 대음순으로 퍼지는 길이 되는 인대는 [[round ligament of uterus]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-39",
+       "t": "peritoneum 밑에서 cervix와 골반 가쪽 벽을 가로로 이어 주는 인대는 [[transverse cervical ligament (cardinal ligament)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-40",
+       "t": "자궁이 처지거나 질로 빠지는 것을 막고 cervix 가쪽에서 골반 가쪽 벽까지 이어지는 인대는 [[cardinal ligament]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-41",
+       "t": "cervix를 뒤쪽으로 붙여 주는 활 모양 인대는 [[uterosacral ligament]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-42",
+       "t": "uterine a.는 internal iliac a.의 [[anterior]] branch",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-43",
+       "t": "uterine a.는 [[ureter]]의 앞쪽을 지나므로 ligation할 때 주의한다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-40-44",
+       "t": "vaginal a.는 [[inferior vesical a.]]에서 분지한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-45",
+       "t": "ovarian a.는 [[suspensory ligament of ovary]] 안을 지나 ovary에 분포한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-46",
+       "t": "rectum에는 대장의 일반적 특징인 [[taeniae coli]], haustra, epiploic appendage가 없다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-47",
+       "t": "anal valve의 아래쪽에 [[anal pecten]]이 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-48",
+       "t": "anal sphincter 주변에는 portal system과 caval system의 정맥이 만나는 [[portocaval shunt]]가 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-49",
+       "t": "pectinate line 아래쪽은 [[ectoderm]] 기원이며, internal iliac a.에서 나온 [[inferior rectal a.]]가 혈액을 준다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-50",
+       "t": "pectinate line 위쪽은 endoderm 기원이고 [[visceral]] innervation, 아래쪽은 somatic innervation",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-40-51",
+       "t": "external anal sphincter는 주로 [[skeletal muscle]]로 이루어져 있다",
+       "k": 0
+      }
+     ]
+    },
+    {
+     "id": "41",
+     "name": "41. 골반의 비뇨생식장기(2)_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-41-1",
+       "t": "pelvic diaphragm 위는 [[pelvic cavity]], 아래는 [[perineum]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-2",
+       "t": "pelvic floor를 이루는 levator ani m. = puborectalis + [[pubococcygeus]] + [[iliococcygeus]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-3",
+       "t": "perineal flexure를 만들어 변이 나오지 않게 하는 근육은 [[puborectalis]]와 [[pubococcygeus]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-4",
+       "t": "rectum과 anal canal 사이에 perineal flexure를 만들어 위장관 끝을 닫아 두는 근육은 [[puborectalis]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-5",
+       "t": "anal canal의 위쪽 경계인 [[anorectal ring]]을 puborectalis가 전체적으로 감싼다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-6",
+       "t": "ischioanal fossa가 perineal membrane 위쪽까지 연장된 부분은 [[anterior recess]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-7",
+       "t": "ischioanal fossa에 감염이 생기면 [[inferior rectal n./a./v.]]가 이환될 수 있다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-8",
+       "t": "pudendal n.는 [[greater sciatic foramen]]으로 나가 lesser sciatic foramen으로 perineum에 들어온다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-9",
+       "t": "pudendal n.는 출산, ischial spine, ischial tuberosity, [[obturator internus m.]] 손상 시 문제가 된다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-10",
+       "t": "superior hypogastric plexus와 inferior hypogastric plexus 사이를 오가는 신경은 [[hypogastric n.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-11",
+       "t": "pelvic splanchnic n.는 [[부교감]] 성분",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-12",
+       "t": "여성에서 자궁에 분포하는 uterine a.는 [[ureter]]와 교차하므로 주의한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-13",
+       "t": "여성이 앉아 있을 때 배 안의 삼출물이 쌓일 가능성이 가장 큰 곳은 [[rectouterine pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-14",
+       "t": "posterior fornix에서 rectouterine pouch로 바늘을 넣어 복막 안 액체를 얻는 것을 [[culdocentesis]]라고 한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-15",
+       "t": "uterus, fallopian tube, ovary를 감싸는 peritoneum은 [[broad ligament]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-16",
+       "t": "자궁외임신이 가장 잘 일어나는 fallopian tube 부위는 [[ampulla (자궁관팽대)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-17",
+       "t": "cervix를 지지하는 fascia(ligament)는 [[transverse cervical ligament (cardinal ligament)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-18",
+       "t": "자궁이 처지거나 질로 빠지는 것을 막고 cervix 가쪽에서 골반 가쪽 벽까지 이어지는 인대는 [[cardinal ligament]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-19",
+       "t": "카테터 삽입 시 손상되기 쉬운 요도 부분은 [[spongy part]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-20",
+       "t": "urethra가 prostate를 지날 때 뒷벽에 길게 늘어진 능선은 [[urethral crest (요도능선)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-21",
+       "t": "urethral crest 가운데의 팽대부는 [[seminal colliculus (요도둔덕)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-22",
+       "t": "seminal colliculus의 위쪽 가운데 구멍은 여성의 자궁에 해당하는 [[prostatic utricle]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-23",
+       "t": "seminal colliculus 아래 양쪽 2개의 구멍은 [[openings of ejaculatory ducts]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-24",
+       "t": "ejaculatory duct가 열리는 곳은 prostatic urethra의 [[seminal colliculus]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-25",
+       "t": "seminal colliculus가 감염되어 막히면 가장 쉽게 손상받는 것은 [[ejaculatory ducts]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-41-26",
+       "t": "urethral crest 양옆으로 파여 prostate의 관들이 열리는 곳은 [[prostatic sinus]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-27",
+       "t": "여성 요도 옆의 샘은 [[paraurethral gland (Skene's gland)]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-28",
+       "t": "남성의 bulbourethral gland(Cowper's gland)와 상동기관인 여성의 샘은 [[greater vestibular gland]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-29",
+       "t": "근육을 감싸는 pelvic fascia는 [[parietal]] pelvic fascia, 장기를 감싸는 것은 [[visceral]] pelvic fascia",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-30",
+       "t": "parietal과 visceral pelvic fascia가 합쳐진 곳은 [[tendinous arch]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-41-31",
+       "t": "endopelvic fascia 중 cervix와 uterus를 지지하는 ligament는 [[transverse cervical ligament (cardinal ligament)]]",
+       "k": 1
+      }
+     ]
+    },
+    {
+     "id": "42",
+     "name": "42. 샅과 비뇨생식장기의 구조_양헌무",
+     "cards": [
+      {
+       "id": "cz-v2-sh1-42-1",
+       "t": "perineal membrane은 [[urogenital triangle]]에만 붙어 있고, anal triangle에는 없다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-2",
+       "t": "perineal membrane 위쪽(깊은 쪽)은 [[deep perineal pouch]], 아래쪽(얕은 쪽)은 [[superficial perineal pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-3",
+       "t": "perineal membrane과 levator ani m. 사이의 공간은 [[deep perineal pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-4",
+       "t": "perineal membrane과 Colles' fascia 사이의 공간은 [[superficial perineal pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-5",
+       "t": "해면체와 외부 생식기가 달려 있는 공간은 [[superficial perineal pouch]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-6",
+       "t": "perineal membrane은 Colles' fascia보다 [[깊은]] 층에 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-7",
+       "t": "perineal membrane은 superficial perineal pouch의 [[위 (윗경계)]]에 해당한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-8",
+       "t": "urogenital diaphragm(deep perineal pouch 근육)에서 perineal membrane은 [[아래쪽]] 경계에 해당한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-9",
+       "t": "anal canal은 perineal membrane을 통과하지 [[않고]] 뒤에 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-10",
+       "t": "male urethra는 [[membranous part]]에서 perineal membrane을 통과한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-11",
+       "t": "corpus spongiosum이 perineal membrane에 붙는 몸쪽 부분을 [[bulb]]라고 한다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-12",
+       "t": "Colles' fascia(perineum)는 배의 [[Scarpa's fascia]], 음낭·음경의 [[Dartos fascia]]와 이어진다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-13",
+       "t": "Colles' fascia는 perineal membrane [[뒷모서리]]에서 끝나므로, superficial perineal pouch의 염증은 [[anal triangle]]로 퍼지지 않는다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-14",
+       "t": "superficial perineal pouch의 염증이 파급되기 어려운 부위는 [[항문 주위 피부밑조직]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-15",
+       "t": "Scarpa's fascia는 [[inguinal ligament]]에서 끝나므로 superficial perineal pouch의 염증은 [[다리 (thigh)]]로 퍼지지 않는다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-16",
+       "t": "요도 손상 시 오줌이 어디에 쌓일지는 [[Buck's fascia]]가 터졌는지에 따라 달라진다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-17",
+       "t": "요도 손상 시 Buck's fascia가 온전하면 오줌은 해면체와 [[Buck's fascia]] 사이에 쌓인다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-18",
+       "t": "Buck's fascia가 터지면 오줌은 superficial perineal pouch, [[scrotum]], 배로 퍼지지만 항문 주위와 thigh로는 퍼지지 않는다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-19",
+       "t": "남녀 공통으로 deep perineal pouch에 있는 근육: [[external urethral sphincter (sphincter urethrae)]], deep transverse perineal m.",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-20",
+       "t": "남녀 공통으로 deep perineal pouch에 있는 근육: external urethral sphincter, [[deep transverse perineal m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-21",
+       "t": "여성에만 있는 deep perineal pouch의 근육: [[sphincter urethrovaginalis m.]], [[compressor urethrae m.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-22",
+       "t": "deep perineal pouch의 근육 중 요도와 관련된 근육은 [[sphincter urethrae m. (external urethral sphincter)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-23",
+       "t": "deep perineal pouch에 국한된 감염에서도 정상 기능할 가능성이 큰 근육은 superficial perineal pouch에 있는 [[ischiocavernosus m.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-24",
+       "t": "bulbourethral gland(Cowper's gland)는 [[deep]] perineal pouch에 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-25",
+       "t": "superficial perineal pouch 안에 있는 근육은 [[bulbospongiosus (bulbocavernous) m.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-26",
+       "t": "penis에서 Colles' fascia의 연장인 가장 얕은 막은 [[superficial fascia of penis (Dartos)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-27",
+       "t": "corpus cavernosum과 corpus spongiosum을 같이 감싸는 막은 [[Buck's fascia (deep fascia of penis)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-28",
+       "t": "Buck's fascia는 [[deep perineal fascia]]의 연장이다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-29",
+       "t": "corpus cavernosum을 감싸는 막은 [[tunica albuginea]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-30",
+       "t": "Buck's fascia 안에 있는 구조: deep dorsal v. of penis [[1개]], dorsal a. of penis 2개, dorsal n. of penis 2개",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-31",
+       "t": "Colles' fascia와 Buck's fascia 사이의 동맥은 [[superficial dorsal a. of penis]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-32",
+       "t": "Buck's fascia와 tunica albuginea 사이의 동맥은 [[dorsal a. of penis]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-33",
+       "t": "corpus cavernosum 안의 동맥은 [[deep a. of penis (cavernous a.)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-34",
+       "t": "corpus spongiosum 안의 동맥은 [[urethral a.]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-35",
+       "t": "penis 단면에서 dorsal part 양쪽에 있는 해면체는 [[corpus cavernosum]], ventral part에 하나 있는 것은 [[corpus spongiosum]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-36",
+       "t": "glans penis는 [[corpus spongiosum]]의 끝이 팽창한 것이다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-37",
+       "t": "external anal sphincter와 superficial transverse perineal m.의 섬유가 섞이는 곳은 [[perineal body]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-38",
+       "t": "양쪽 superficial·deep transverse perineal m.이 정중면에서 만나는 구조는 [[perineal body]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-39",
+       "t": "여성 perineal body에는 external anal sphincter, superficial transverse perineal m., [[bulbospongiosus m.]]가 붙는다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-40",
+       "t": "labia majora가 뒤에서 만나지 않는 부분은 [[posterior commissure]]이며, 그 깊은 곳에 perineal body가 있다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-41",
+       "t": "여성에서 perineal body를 덮는 구조는 대음순의 [[posterior commissure]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-42",
+       "t": "posterior commissure를 포함한 정중회음절개 후 변실금이 생기면 가장 직접 영향을 받은 근육은 [[external anal sphincter]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-43",
+       "t": "출산 시 아래쪽으로 incision을 하면 [[perineal body]]가 망가져 요실금·통증이 생길 수 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-44",
+       "t": "출산 후 perineal body 파열로 변실금이 생기면 가장 영향을 준 근육은 [[external anal sphincter]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-45",
+       "t": "대음순은 [[bulb of vestibule]]을 덮고 있는 피부다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-46",
+       "t": "bulb of vestibule을 덮고 있는 근육은 [[bulbospongiosus m.]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-47",
+       "t": "여성의 질입구 주위에 있는 해면체는 [[bulb of vestibule]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-48",
+       "t": "superficial perineal pouch에 있고 bulbospongiosus m.에 일부 덮인, 윤활액을 내는 샘은 [[greater vestibular gland]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-49",
+       "t": "질입구 뒤가쪽에 물혹이 생겼고 bulbospongiosus가 덮는 샘의 도관이 막혔다면 그 샘은 [[greater vestibular gland]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-50",
+       "t": "greater vestibular gland는 남성의 [[Cowper's gland (bulbourethral gland)]]와 상동기관",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-51",
+       "t": "greater vestibular gland가 막히면 [[cyst (낭종)]]가 생길 수 있다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-52",
+       "t": "양쪽 labia minora 안쪽 주름은 서로 합쳐져 [[frenulum]]을 이룬다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-53",
+       "t": "labia majora가 앞쪽에서 만나는, 털이 많은 부분은 [[mons pubis]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-54",
+       "t": "여성에도 clitoris를 덮는 [[prepuce]]가 있다",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-55",
+       "t": "penis·clitoris의 glans와 C.S./C.C.의 림프는 [[deep inguinal lymph node]]로 간다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-56",
+       "t": "testis 또는 ovary의 림프는 [[lateral aortic (preaortic) nodes]]로 바로 간다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-57",
+       "t": "labia majora 표면의 림프는 [[superficial inguinal node]]로 간다",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-58",
+       "t": "남성의 corpus spongiosum에 해당하는 여성 구조는 [[bulb of vestibule]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-59",
+       "t": "남성의 scrotum에 해당하는 여성 구조는 [[labia majora]]",
+       "k": 0
+      },
+      {
+       "id": "cz-v2-sh1-42-60",
+       "t": "남성의 bulbourethral gland(Cowper's)에 해당하는 여성 구조는 [[greater vestibular gland (Bartholin's)]]",
+       "k": 1
+      },
+      {
+       "id": "cz-v2-sh1-42-61",
+       "t": "여성의 paraurethral gland에 해당하는 남성 구조는 [[prostate gland]]",
+       "k": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
